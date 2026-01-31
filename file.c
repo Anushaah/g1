@@ -1,3 +1,3 @@
 #include<stdio.h>
 int main(){
-printf("heyy\n");}
+printf("heyy sup\n");}
